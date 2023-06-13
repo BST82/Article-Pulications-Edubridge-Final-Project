@@ -1,0 +1,21 @@
+.submit-form {
+    max-width: 400px;
+    margin: auto;
+  }
+  .sub{
+    margin-left: 5px;
+    font-size: 20px;
+  }
+  .jumbotron{
+    margin-top: 120px;
+    padding: 50px;
+  
+    background-image: url("https://images.unsplash.com/photo-1553095066-5014bc7b7f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bGlnaHRpbmd8ZW58MHx8MHx8fDA%3D&w=1000&q=80");
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 50px;
+  }
+  .display-4{
+    color: aliceblue;
+  }

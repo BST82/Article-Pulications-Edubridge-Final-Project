@@ -1,0 +1,79 @@
+
+.sec{
+  background-color: violet;
+
+}
+.edit-form {
+    max-width: 400px;
+    margin: auto;
+  }
+.editing{
+  background-color: rgb(210, 191, 22);
+  color: black;
+}
+.unpublish{
+  background-color: blue;
+  color: antiquewhite;
+}
+.publish{
+  background-color:rgb(181, 44, 66);
+}
+.delete{
+  background-color: slateblue;
+}
+.update{
+  background-color: orchid;
+}
+.example-card {
+  max-width: 400px;
+}
+.myclass{
+  background: rgba(198, 105, 238, 0.5);
+  border-left: 10px solid rgb(44, 41, 47);
+  border-bottom: 10px solid rgb(44, 41, 47);
+  border-radius: 50px;
+}
+.c1{
+  padding: 10px;
+}
+.editbtn{
+  background-color: rgb(239, 231, 0);
+  width: 50px;
+  align-items: center;
+}
+.example-form {
+  min-width: 150px;
+  max-width: 500px;
+  width: 100%;
+}
+
+.example-full-width {
+  width: 100%;
+}
+.card{
+  border: 2px solid black;
+  padding: 10px;
+  background-color: rgb(81, 96, 96);
+  color: aliceblue;
+}
+.hei{
+  font-size: 20px;
+}
+.card-body{
+  font-size: 20px;
+}
+.publish,.publish2,.publish3,.publish4{
+ margin: 15px;
+ padding: 5px;
+ font-size: 20px;
+ font-weight: normal;
+}
+.jumbotron-fluid{
+  color: white;
+  border: 10px solid black;
+  padding: 15px;
+  background-image: url("https://images.hdqwalls.com/download/4k-texture-simple-background-21-1920x1080.jpg");
+  background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

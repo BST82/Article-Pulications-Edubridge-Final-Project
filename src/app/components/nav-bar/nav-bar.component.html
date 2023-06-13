@@ -1,0 +1,23 @@
+<section class="nav">
+    <!-- We can also insert any logo here     -->
+    <div class="logo">
+        <mat-icon class="material-symbols-outlined">menu_book</mat-icon>
+        <span class="side">Article Publications</span>
+    </div>
+
+    <!--  checkbox to control the icon's state    -->
+    <input id="menu-toggle" type="checkbox" />
+    <label class='menu-button-container' for="menu-toggle">
+        <div class='menu-button'></div>
+      </label>
+    <!--  main menu    -->
+    <ul class="menu">
+        <li routerLink="/todo">Works</li>
+        <li routerLink="add">Add</li>
+        <!-- <li >About</li>
+        <li>Contact</li> -->
+    </ul>
+</section>
+<div class="container mt-3">
+    <router-outlet></router-outlet>
+  </div>
